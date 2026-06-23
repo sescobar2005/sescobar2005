@@ -24,8 +24,8 @@ Mi lenguaje favorito tiene nombre y apellido:
 
 ☕ Java.
 
-Aunque también trabajo con tecnologías modernas del ecosistema web,
-Java siempre tendrá una silla reservada en mi mesa.
+Aunque exploro distintas tecnologías del mundo del software,
+Java sigue siendo mi lenguaje de confianza.
 
 ---
 
