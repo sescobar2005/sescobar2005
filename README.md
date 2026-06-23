@@ -33,8 +33,8 @@ Java sigue siendo mi lenguaje de confianza.
 
 ### Backend
 ☕ Java  
-🟢 Node.js
-🐍 Python (FastAPI / scripting backend)
+🟢 Node.js  
+🐍 Python (FastAPI / scripting backend)  
 🚀 Express  
 
 ### Frontend
