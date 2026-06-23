@@ -80,5 +80,5 @@ Actualmente creando/aprendiendo sobre proyectos enfocados en:
 ## ☕ Estado actual
 
 Java: obligatorio.  
-Aprendizaje: permanente.
-Stack Overflow: compañero de vida.
+Aprendizaje: permanente.  
+Stack Overflow: compañero de vida.  
