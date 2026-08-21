@@ -19,7 +19,7 @@
 
 ---
 
-## 🧠 About Me
+## 🧠 About me
 
 I'm a computer engineer focused on software development, backend engineering, and system design.
 
@@ -42,7 +42,7 @@ And when it comes to programming languages...
 
 ---
 
-## 💻 Tech Stack
+## 💻 Tech stack
 
 ### ⚙️ Backend
 
@@ -78,7 +78,7 @@ And when it comes to programming languages...
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
 </p>
 
-### 🐳 Infrastructure & Tools
+### 🐳 Infrastructure & tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -89,7 +89,7 @@ And when it comes to programming languages...
 
 ---
 
-## 🚀 Currently Building
+## 🚀 Currently building
 
 I'm currently exploring and building projects around:
 
@@ -113,7 +113,7 @@ I'm currently exploring and building projects around:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub stats
 
 <p align="center">
   <img
@@ -134,7 +134,7 @@ I'm currently exploring and building projects around:
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sescobar2005&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
