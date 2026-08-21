@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="./.github/assets/banner.png" width="100%" />
-</p>
-
-<h1 align="center">Santiago Escobar</h1>
+<h1 align="center"><b>Hey there!, I'm Santiago Escobar </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <strong>Computer Engineer · Backend Developer · Software Enthusiast</strong>
