@@ -115,22 +115,7 @@ I'm currently exploring and building projects around:
 
 ## 📊 GitHub stats
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=sescobar2005&show_icons=true&theme=tokyonight&hide_border=true"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sescobar2005&layout=compact&theme=tokyonight&hide_border=true"
-    height="170"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=sescobar2005&theme=tokyonight&hide_border=true"
-  />
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sescobar2005&theme=great-gatsby)](https://git.io/streak-stats)
 
 ---
 
