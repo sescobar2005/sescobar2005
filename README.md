@@ -104,8 +104,9 @@ I'm currently exploring and building projects around:
 ---
 
 ## 📊 GitHub stats
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=sescobar2005&theme=tokyonight)](https://git.io/streak-stats)
+<p align="center">
+  [![GitHub Streak](https://streak-stats.demolab.com?user=sescobar2005&theme=tokyonight)](https://git.io/streak-stats)
+</p>
 
 ---
 
