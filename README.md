@@ -6,7 +6,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8420CA&center=true&vCenter=true&width=435&lines=Computer+Engineer;Backend+Developer;Software+Enthusiast" alt="Typing SVG" /></a>
 </p>
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/sescobar2005/sescobar2005/blob/main/Images/line.gif" width = 250px></picture>
 
 ---
 
