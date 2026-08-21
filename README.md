@@ -1,84 +1,159 @@
-# Santiago Escobar 👋
-## aka Santiaguito 🐋
+<p align="center">
+  <img src="./.github/assets/banner.png" width="100%" />
+</p>
 
-💻 Ingeniero informático enfocado en construir soluciones de software,
-diseñar sistemas y entender qué ocurre detrás de cada pieza.
+<h1 align="center">Santiago Escobar</h1>
 
-Mi mayor interés está en el mundo backend:
-arquitectura, lógica de negocio, bases de datos, APIs e infraestructura.
+<p align="center">
+  <strong>Computer Engineer · Backend Developer · Software Enthusiast</strong>
+</p>
 
-Me gusta resolver problemas complejos y convertir ideas en sistemas funcionales.
-
----
-
-## 🧠 Sobre mí
-
-Soy de esas personas que disfrutan más entender cómo funciona un sistema
-por dentro que solamente verlo funcionando.
-
-Me apasiona la lógica detrás del software:
-cómo se comunican los servicios, cómo se organizan los datos
-y cómo una buena arquitectura puede cambiar completamente un proyecto.
-
-Mi lenguaje favorito tiene nombre y apellido:
-
-☕ Java.
-
-Aunque exploro distintas tecnologías del mundo del software,
-Java sigue siendo mi lenguaje de confianza.
+<p align="center">
+  <a href="https://linkedin.com/in/sescobar2005">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:santiagoescobarm2005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🛠️ Tecnologías
+## 🧠 About Me
 
-### Backend
-☕ Java  
-🟢 Node.js  
-🐍 Python (FastAPI / scripting backend)  
-🚀 Express  
+I'm a **Computer Engineer** focused on software development, backend engineering, and system design.
 
-### Frontend
-⚛️ React  
-🅰️ Angular  
-📘 TypeScript  
+I enjoy solving complex problems, building scalable solutions, and understanding what happens behind every piece of a system.
 
-### Bases de datos
-🐘 PostgreSQL  
-🍃 MongoDB  
-🗄️ SQL Server  
-📦 SQLite  
+My main interests are:
 
-### Infraestructura & herramientas
-🐳 Docker  
-🔧 Git  
-🐧 Linux  
+* 🏗️ Software architecture
+* ⚙️ Backend development
+* 🧠 Business logic
+* 🗄️ Databases
+* 🔌 APIs & distributed systems
+* 🐳 Infrastructure & automation
+
+I prefer understanding **how a system works internally**, not just making it work.
+
+And when it comes to programming languages...
+
+> ☕ **Java is my language of choice.**
 
 ---
 
-## ⚙️ Filosofía
+## 💻 Tech Stack
 
-> A veces el código funciona a la primera.
+### ⚙️ Backend
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+</p>
+
+### 🎨 Frontend
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+### 🗄️ Databases
+
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+</p>
+
+### 🐳 Infrastructure & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+---
+
+## 🚀 Currently Building
+
+I'm currently exploring and building projects around:
+
+* 🏗️ Enterprise software architecture
+* ⚡ Advanced backend development
+* 📈 Scalable systems
+* 🔌 API design
+* 🤖 Automation
+* 🐳 Infrastructure & containerization
+* 🗄️ Database architecture
+
+---
+
+## ⚙️ Philosophy
+
+> Sometimes the code works on the first try.
 >
-> A veces funciona después de mirar fijamente el error durante 40 minutos.
+> Sometimes you stare at the same error for 40 minutes.
 >
-> Ambas son experiencias de aprendizaje.
+> Both are part of the learning process.
 
 ---
 
-## 🚀 En construcción
+## 📊 GitHub Stats
 
-Actualmente creando/aprendiendo sobre proyectos enfocados en:
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=sescobar2005&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" height="170" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sescobar2005&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="170" />
+</p>
 
-- Arquitecturas empresariales
-- Sistemas escalables
-- Backend avanzado
-- Automatización
-- Infraestructura
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=sescobar2005&theme=tokyonight&hide_border=false" />
+</p>
 
 ---
 
-## ☕ Estado actual
+## 🏆 GitHub Trophies
 
-Java: obligatorio.  
-Aprendizaje: permanente.  
-Stack Overflow: compañero de vida.  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sescobar2005&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+</p>
+
+---
+
+## ☕ Current Status
+
+```text
+Java             ████████████████████  Mandatory
+Learning         ████████████████████  Permanent
+Backend          ███████████████████░  In progress
+Architecture     ████████████████░░░░  Exploring
+Stack Overflow   ████████████████████  Life companion
+```
+
+---
+
+<p align="center">
+  <i>"Good software is not just about making things work. It's about understanding why they work."</i>
+</p>
+
+<p align="center">
+  🐋 <strong>Santiaguito</strong>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sescobar2005&style=flat-square&color=blue" />
+</p>
