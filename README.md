@@ -10,9 +10,9 @@
 
 ## 🧠 About me
 
-I'm a computer engineer focused on software development, backend engineering, and system design.
+I'm a computer engineer focused on software development, backend engineering and system design.
 
-I enjoy solving complex problems, building scalable solutions, and understanding what happens behind every piece of a system.
+I enjoy solving complex problems, building scalable solutions and understanding what happens behind every piece of a system.
 
 My main interests are:
 
@@ -25,7 +25,7 @@ My main interests are:
 
 I prefer understanding how a system works internally, not just making it work.
 
-And when it comes to programming languages...
+ when it comes to programming languages...
 
 > ☕ **Java is my language of choice.**
 
