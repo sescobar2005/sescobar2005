@@ -29,7 +29,7 @@ And when it comes to programming languages...
 
 > ☕ **Java is my language of choice.**
 
----
+<img src="https://github.com/sescobar2005/sescobar2005/blob/main/Images/line.gif"><br><br>
 
 ## 💻 Tech stack
 
@@ -76,7 +76,7 @@ And when it comes to programming languages...
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
----
+<img src="https://github.com/sescobar2005/sescobar2005/blob/main/Images/line.gif"><br><br>
 
 ## 🚀 Currently building
 
@@ -90,7 +90,7 @@ I'm currently exploring and building projects around:
 * 🐳 Infrastructure & containerization
 * 🗄️ Database architecture
 
----
+<img src="https://github.com/sescobar2005/sescobar2005/blob/main/Images/line.gif"><br><br>
 
 ## ⚙️ Philosophy
 
@@ -100,7 +100,7 @@ I'm currently exploring and building projects around:
 >
 > Both are part of the learning process.
 
----
+<img src="https://github.com/sescobar2005/sescobar2005/blob/main/Images/line.gif"><br><br>
 
 ## 📊 GitHub stats
 
