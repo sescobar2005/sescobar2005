@@ -124,10 +124,6 @@ I'm currently exploring and building projects around:
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sescobar2005&style=flat-square&color=blue" />
-</p>
-
-<p align="center">
   <a href="https://linkedin.com/in/sescobar2005">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
