@@ -115,12 +115,7 @@ I'm currently exploring and building projects around:
 
 ## 📊 GitHub stats
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=sescobar2005&theme=great-gatsby&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=sescobar2005)](https://git.io/streak-stats)
 
 ---
 
