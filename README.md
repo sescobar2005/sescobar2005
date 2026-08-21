@@ -6,14 +6,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8420CA&center=true&vCenter=true&width=435&lines=Santiago+Escobar+%3C3;Computer+Engineer;Backend+Developer;Software+Enthusiast" alt="Typing SVG" /></a>
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/sescobar2005">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:santiagoescobarm2005@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
 
 ---
 
@@ -128,3 +120,13 @@ I'm currently exploring and building projects around:
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sescobar2005&style=flat-square&color=blue" />
 </p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/sescobar2005">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:santiagoescobarm2005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
