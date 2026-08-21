@@ -115,7 +115,12 @@ I'm currently exploring and building projects around:
 
 ## 📊 GitHub stats
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sescobar2005&theme=great-gatsby" alt="GitHub Streak" /></a>
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=sescobar2005&theme=great-gatsby&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
 
 ---
 
