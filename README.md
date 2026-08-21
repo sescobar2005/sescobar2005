@@ -115,7 +115,7 @@ I'm currently exploring and building projects around:
 
 ## 📊 GitHub stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sescobar2005&theme=great-gatsby)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sescobar2005&theme=great-gatsby" alt="GitHub Streak" /></a>
 
 ---
 
