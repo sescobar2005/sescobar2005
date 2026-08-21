@@ -8,8 +8,6 @@
 
 <picture> <img align="right" src="https://github.com/sescobar2005/sescobar2005/blob/main/Images/line.gif" width = 250px></picture>
 
----
-
 ## 🧠 About me
 
 I'm a computer engineer focused on software development, backend engineering, and system design.
