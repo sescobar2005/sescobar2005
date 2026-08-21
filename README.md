@@ -142,18 +142,6 @@ I'm currently exploring and building projects around:
 
 ---
 
-## ☕ Current Status
-
-```text
-Java             ████████████████████  Mandatory
-Learning         ████████████████████  Permanent
-Backend          ███████████████████░  In progress
-Architecture     ████████████████░░░░  Exploring
-Stack Overflow   ████████████████████  Life companion
-```
-
----
-
 <p align="center">
   <i>"Good software is not just about making things work. It's about understanding why they work."</i>
 </p>
