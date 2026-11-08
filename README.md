@@ -77,27 +77,10 @@ I believe good software comes from understanding the problem before writing the 
 
 <img src="https://github.com/sescobar2005/sescobar2005/blob/main/Images/line.gif"><br><br>
 
-## 💼 Experience & background
+## 👨‍💻 Professional background
 
-### Software Development Internship
-
-During my professional internship, I worked on web development and internal process automation.
-
-* Developed a corporate website using Angular and NestJS.
-* Designed a PostgreSQL database from scratch for an internal Progressive Web Application (PWA).
-* Worked on backend development using NestJS and Prisma.
-* Integrated frontend applications with backend services through API endpoints.
-* Worked with authentication and role-based access control.
-
-I also explored Python-based automation for extracting and organizing structured data from PDF documents into Excel spreadsheets.
-
-### Research experience — DÉDALOS
-
-Participated in a neuroscience research project involving image measurement and data processing.
-
-* Worked with ImageJ, Java and Python.
-* Developed an ImageJ automation workflow to extract measurements from previously defined image regions.
-* Used Python and Excel to consolidate measurement results for further research processing.
+- **Software Development:** Six-month internship involving web development, backend services, database design and internal process automation.
+- **Research:** Participated in a neuroscience research project focused on image measurement automation and data processing.
 
 <img src="https://github.com/sescobar2005/sescobar2005/blob/main/Images/line.gif"><br><br>
 
