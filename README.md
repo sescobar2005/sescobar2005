@@ -55,7 +55,7 @@ I believe good software comes from understanding the problem before writing the 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="60px" alt="Prisma">
 </p>
 
-### 🐍 Programming & Data Processing
+### 🐍 Programming & data processing
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="60px" alt="Python">
@@ -67,7 +67,7 @@ I believe good software comes from understanding the problem before writing the 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="60px" alt="NumPy">
 </p>
 
-### 🛠️ Tools & Version Control
+### 🛠️ Tools & version control
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="60px" alt="Git">
@@ -77,7 +77,7 @@ I believe good software comes from understanding the problem before writing the 
 
 <img src="https://github.com/sescobar2005/sescobar2005/blob/main/Images/line.gif"><br><br>
 
-## 💼 Experience & Background
+## 💼 Experience & background
 
 ### Software Development Internship
 
@@ -91,7 +91,7 @@ During my professional internship, I worked on web development and internal proc
 
 I also explored Python-based automation for extracting and organizing structured data from PDF documents into Excel spreadsheets.
 
-### Research Experience — DÉDALOS
+### Research experience — DÉDALOS
 
 Participated in a neuroscience research project involving image measurement and data processing.
 
