@@ -1,33 +1,29 @@
 [![ProfileBanner](https://github.com/sescobar2005/sescobar2005/blob/main/Images/banner.png)](https://sescobar2005.github.io)
 
-<h1 align="center"><b>Hey there!, I'm Santiago Escobar </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hey there! I'm Santiago Escobar </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Alegreya+SC&weight=700&size=35&pause=1000&color=F76CCF&background=FF5EE000&center=true&vCenter=true&width=435&lines=Computer+Engineer;Backend+Developer;Software+Enthusiast" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Alegreya+SC&weight=700&size=35&pause=1000&color=F76CCF&background=FF5EE000&center=true&vCenter=true&width=435&lines=Computer+Engineer;Backend-Oriented+Developer;Software+Developer" alt="Typing SVG" /></a>
 </p>
 
 <img src="https://github.com/sescobar2005/sescobar2005/blob/main/Images/line.gif"><br><br>
 
 ## 🧠 About me
 
-I'm a computer engineer focused on software development, backend engineering and system design.
+I'm a computer engineer focused on software development, with a strong interest in backend engineering, database design and software architecture.
 
-I enjoy solving complex problems, building scalable solutions and understanding what happens behind every piece of a system.
+I enjoy solving problems, understanding how systems work internally, and building practical solutions that are maintainable and reliable.
 
 My main interests are:
 
-* 🏗️ Software architecture
+* 🏗️ Software architecture and design
 * ⚙️ Backend development
-* 🧠 Business logic
-* 🗄️ Databases
-* 🔌 APIs & distributed systems
-* 🐳 Infrastructure & automation
+* 🧠 Business logic and problem solving
+* 🗄️ Database design and management
+* 🔌 API development and integration
+* 🤖 Process automation and data processing
 
-I prefer understanding how a system works internally, not just making it work.
-
- when it comes to programming languages...
-
-> ☕ **Java is my language of choice.**
+I believe good software comes from understanding the problem before writing the solution.
 
 <img src="https://github.com/sescobar2005/sescobar2005/blob/main/Images/line.gif"><br><br>
 
@@ -36,76 +32,90 @@ I prefer understanding how a system works internally, not just making it work.
 ### ⚙️ Backend
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="60px" alt="Java">
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="60px" alt="Node.js">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60px" alt="JavaScript">
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="60px" alt="NestJS">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="60px" alt="FastAPI">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="60px" alt="TypeScript">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="60px" alt="Python">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="60px" alt="C#">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60px" alt="JavaScript">
 </p>
 
 ### 🎨 Frontend
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="60px" alt="React">
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="60px" alt="Angular">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="60px" alt="TypeScript">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="60px" alt="HTML5">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="60px" alt="CSS3">
 </p>
 
-### 🗄️ Databases
+### 🗄️ Databases & ORM
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="60px" alt="PostgreSQL">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="60px" alt="MongoDB">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="60px" alt="SQL Server">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" width="60px" alt="SQLite">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg" width="60px" alt="Redis">
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="60px" alt="Prisma">
 </p>
 
-### 🐳 Infrastructure & tools
+* SQL
+* Relational database design
+
+### 🐍 Programming & Data Processing
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="60px" alt="Docker">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="60px" alt="Python">
   &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="60px" alt="Java">
+</p>
+
+* Pandas, NumPy and OpenPyXL
+* ImageJ and image measurement automation
+
+### 🛠️ Tools & Version Control
+
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="60px" alt="Git">
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="60px" alt="GitHub">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="60px" alt="Linux">
 </p>
+
+<img src="https://github.com/sescobar2005/sescobar2005/blob/main/Images/line.gif"><br><br>
+
+## 💼 Experience & Background
+
+### Software Development Internship
+
+During my professional internship, I worked on web development and internal process automation.
+
+* Developed a corporate website using Angular and NestJS.
+* Designed a PostgreSQL database from scratch for an internal Progressive Web Application (PWA).
+* Worked on backend development using NestJS and Prisma.
+* Integrated frontend applications with backend services through API endpoints.
+* Worked with authentication and role-based access control.
+
+I also explored Python-based automation for extracting and organizing structured data from PDF documents into Excel spreadsheets.
+
+### Research Experience — DÉDALOS
+
+Participated in a neuroscience research project involving image measurement and data processing.
+
+* Worked with ImageJ, Java and Python.
+* Developed an ImageJ automation workflow to extract measurements from previously defined image regions.
+* Used Python and Excel to consolidate measurement results for further research processing.
 
 <img src="https://github.com/sescobar2005/sescobar2005/blob/main/Images/line.gif"><br><br>
 
 ## 🚀 Currently building
 
-I'm currently exploring and building projects around:
+I'm currently developing my personal portfolio, exploring modern frontend technologies and interactive 3D experiences.
 
-* 🏗️ Enterprise software architecture
-* ⚡ Advanced backend development
-* 📈 Scalable systems
-* 🔌 API design
-* 🤖 Automation
-* 🐳 Infrastructure & containerization
-* 🗄️ Database architecture
+Technologies I'm working with:
+
+* React and Next.js
+* TypeScript
+* Tailwind CSS
+* Three.js
+* React Three Fiber and Drei
+
+I'm also continuing to improve my backend development skills and software engineering practices.
 
 <img src="https://github.com/sescobar2005/sescobar2005/blob/main/Images/line.gif"><br><br>
 
@@ -119,9 +129,16 @@ I'm currently exploring and building projects around:
 
 <img src="https://github.com/sescobar2005/sescobar2005/blob/main/Images/line.gif"><br><br>
 
+## 🌍 Languages
+
+* 🇪🇸 Spanish — Native
+* 🇬🇧 English — B2
+
+<img src="https://github.com/sescobar2005/sescobar2005/blob/main/Images/line.gif"><br><br>
+
 ## 📊 GitHub stats
 
-  <p align="center">
+<p align="center">
   <a href="https://git.io/streak-stats">
     <img
       src="https://streak-stats.demolab.com?user=sescobar2005&theme=tokyonight"
@@ -142,10 +159,12 @@ I'm currently exploring and building projects around:
 
 <p align="center">
   <a href="https://linkedin.com/in/sescobar2005">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:santiagoescobarm2005@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/sescobar2005">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
-
