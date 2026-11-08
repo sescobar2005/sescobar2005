@@ -55,19 +55,17 @@ I believe good software comes from understanding the problem before writing the 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="60px" alt="Prisma">
 </p>
 
-* SQL
-* Relational database design
-
 ### 🐍 Programming & Data Processing
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="60px" alt="Python">
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="60px" alt="Java">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="60px" alt="Pandas">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="60px" alt="NumPy">
 </p>
-
-* Pandas, NumPy and OpenPyXL
-* ImageJ and image measurement automation
 
 ### 🛠️ Tools & Version Control
 
