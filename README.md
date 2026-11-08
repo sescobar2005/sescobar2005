@@ -10,7 +10,7 @@
 
 ## 🧠 About me
 
-I'm a computer engineer focused on software development, with a strong interest in backend engineering, database design and software architecture.
+I'm a Computer Engineer focused on software development, with a strong interest in backend engineering, database design and software architecture.
 
 I enjoy solving problems, understanding how systems work internally, and building practical solutions that are maintainable and reliable.
 
